@@ -25,16 +25,4 @@ As principais funcionalidades do projeto são:
 <img src="src/assets/READMEpng.png" alt="layout em computadores">
 
 ---
-<p align="center">Tela de tablet:</p>
-<div align="center">
-  <img src="src/assets/READMEpng.png" alt="layout em tablets">
-</div>
-
----
-<p align="center">Tela de smartphone:</p>
-<div align="center">
-  <img src="src/assets/READMEpng.png" alt="layout em smartphones">
-</div>
-
----
 
