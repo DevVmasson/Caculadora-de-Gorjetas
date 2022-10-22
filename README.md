@@ -21,7 +21,7 @@ As principais funcionalidades do projeto são:
 * JavaScript
 
 ## Imagens
-<p align="center">Tela de computador ou notebook:</p>
+
 <img src="src/assets/READMEpng.png" alt="layout em computadores">
 
 ---
